@@ -7,4 +7,7 @@
 hy2://avet2012@forum.kalloware.space:443/?sni=forum.kalloware.space#🇫🇮🔴|🟩Финляндия
 vless://405c85bc-c29f-45c3-b663-ad8c144d127e@150.241.74.77:443?type=xhttp&security=reality&pbk=jwUJjMxP0XIrinxiD5NvkogkGNcNhkh5DcuJSLOpd2Y&fp=chrome&sni=ya.ru&sid=5adc79ea0d9cc538&path=%2F14d26ee652969dbaef&mode=auto#🇪🇪🟢|🟨Эстония
 hy2://avet2012@shop.kalloware.space:443/?sni=shop.kalloware.space#🇪🇪🟡|🟩Эстония
-vless://87cc9b80-7dba-44fe-8abd-754ccb24445a@5.188.140.142:3443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&pbk=9EwCnp6vPSP3IPCcRx-e3BN2XXy5vuEGcOCip3K4uD4&sid=a1b2c3d4#🇵🇱🟡|🟨Польша (белые списки)
+vless://87cc9b80-7dba-44fe-8abd-754ccb24445a@5.188.140.142:3443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&pbk=9EwCnp6vPSP3IPCcRx-e3BN2XXy5vuEGcOCip3K4uD4&sid=a1b2c3d4#🇵🇱🟡|🟨Польша (списки)
+vless://87cc9b80-7dba-44fe-8abd-754ccb24445a@new-vkbridge-pl.futurefast.ru:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&pbk=ifeIMpC68x1Y-P2SO9IecJrX2KbmjYp3pfHKibc4-G4&sid=a1b2c3d4#🇳🇱❓|🟨Нидерланды (списки)
+vless://87cc9b80-7dba-44fe-8abd-754ccb24445a@germany.futurefast.ru:2443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&pbk=Fw91C5rhL7w_xvF1jDPs9kDv7LAZDFqWlxTpFCRVdnc&sid=a1b2c3d4#🇩🇪❓|🟨Германия (списки)
+vless://87cc9b80-7dba-44fe-8abd-754ccb24445a@vk-node4.futurefast.ru:24644?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&pbk=UpgSzFnhObX8H1xtvpWFVTT8Lv3XfVpf90_1Q7JjAj8#🇷🇺🟡|🟨Россия (списки)
